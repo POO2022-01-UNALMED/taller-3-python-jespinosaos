@@ -22,7 +22,6 @@ class TV:
         self.estado = estado
         self.control = Control 
 
-    conteoTV(cls)
 
 
     def getMarca(self):
